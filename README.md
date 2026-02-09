@@ -66,11 +66,11 @@ My main interests are **backend systems, web services, and modern full-stack dev
 ### 🧰 Tools & Practices
 - Git & GitHub  
 - Postman (API testing)  
-- Docker (basic)  
+- Docker 
 - Linux  
 - Figma (basic)  
 - Agile / Scrum  
-- Microservice design (concept & basics)  
+- Microservice design  
 - ERP customization  
 
 ---
