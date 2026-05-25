@@ -78,7 +78,7 @@ My main interests are **backend systems, web services, and modern full-stack dev
 
 ## 📫 Connect With Me
 - 🐙 GitHub: https://github.com/TibebuLabs  
-- 🌐 Portfolio: https://tibe123.vercel.app  
+- 🌐 Portfolio:https://tibeport.vercel.app/
 - 📧 Email: tibe13d2144@gmail.com  
 
 
